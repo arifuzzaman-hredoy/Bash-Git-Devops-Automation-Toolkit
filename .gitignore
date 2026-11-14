@@ -1,0 +1,13 @@
+# Generated log files
+logs/
+*.log
+
+# Temporary files
+*.tmp
+*.swp
+*.bak
+
+# Environment and secret files
+.env
+.env.*
+!.env.example
